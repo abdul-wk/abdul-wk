@@ -5,7 +5,7 @@ Email: [wasaykhan.89@gmail.com](mailto:wasaykhan.89@gmail.com) | Linkedin: [abdu
 
 I'm an experienced Engineering Manager with 12+ years of expertise in leading high-performing Agile teams, delivering scalable software solutions, and driving innovation in cloud, web, and mobile development. I thrive on mentoring engineers, fostering collaboration, and aligning technical execution with business goals to achieve exceptional results.
 
-**Currently at [Element Insurance](https://www.element.in/) as Engineering Manager** | **ex-[10Pearls](https://10pearls.com/)** | **ex-[Doozie Labs](https://doozielabs.com/)**
+**Currently at [Element Insurance](https://www.element.in/) as Engineering Manager** | **ex-[10Pearls](https://10pearls.com/)** | **ex-[Techelix](https://techelix.co/)** | **ex-[Doozie Labs](https://doozielabs.com/)**
 
 
 
