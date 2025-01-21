@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Abdul Wasay Khan 
-[wasaykhan.89@gmail.com](mailto:wasaykhan.89@gmail.com) | [abdul-wasay-khan](https://www.linkedin.com/in/abdul-wasay-khan-70b50070/)  
+Email: [wasaykhan.89@gmail.com](mailto:wasaykhan.89@gmail.com) | Linkedin: [abdul-wasay-khan](https://www.linkedin.com/in/abdul-wasay-khan-70b50070/) | Phone: +4916091313948
 
 🎯 **Engineering Manager | Team Builder | Tech Enthusiast**
 
