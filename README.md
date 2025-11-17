@@ -22,4 +22,5 @@ I'm an experienced Engineering Manager with 12+ years of expertise in leading hi
 
 ## 🏅 **Certifications**
 ![AWS Certified Solutions Architect - Associate](https://images.credly.com/size/200x200/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
-![AWS Certified AI Practitioner](https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)
+![AWS Certified AI Practitioner](https://images.credly.com/size/200x200/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)
+
