@@ -1,11 +1,11 @@
 # Hi there! 👋 I'm Abdul Wasay Khan 
-Email: [wasaykhan.89@gmail.com](mailto:wasaykhan.89@gmail.com) | Linkedin: [abdul-wasay-khan](https://www.linkedin.com/in/abdul-wasay-khan-70b50070/) | Phone: +4916091313948
+Email: [abdul.khan.wassay@gmail.com](mailto:abdul.khan.wassay@gmail.com) | Linkedin: [abdul-wasay-khan](https://www.linkedin.com/in/abdul-wasay-khan-70b50070/) | Phone: +4916091313948
 
 🎯 **Engineering Manager | Team Builder | Tech Enthusiast**
 
 I'm an experienced Engineering Manager with 12+ years of expertise in leading high-performing Agile teams, delivering scalable software solutions, and driving innovation in cloud, web, and mobile development. I thrive on mentoring engineers, fostering collaboration, and aligning technical execution with business goals to achieve exceptional results.
 
-**Currently at [Element Insurance](https://www.element.in/) as Engineering Manager** | **ex-[10Pearls](https://10pearls.com/)** | **ex-[Techelix](https://techelix.co/)** | **ex-[Doozie Labs](https://doozielabs.com/)**
+**Currently at [AVIV Group](https://www.aviv-group.com/) as Engineering Manager** | **ex-[Element Insurance](https://www.element.in/)** | **ex-[10Pearls](https://10pearls.com/)** | **ex-[Techelix](https://techelix.co/)** | **ex-[Doozie Labs](https://doozielabs.com/)**
 
 
 
@@ -23,4 +23,3 @@ I'm an experienced Engineering Manager with 12+ years of expertise in leading hi
 ## 🏅 **Certifications**
 ![AWS Certified Solutions Architect - Associate](https://images.credly.com/size/200x200/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
 ![AWS Certified AI Practitioner](https://images.credly.com/size/200x200/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)
-
